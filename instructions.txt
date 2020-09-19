@@ -1,0 +1,18 @@
+wasd to move
+enter one at a time, then press enter
+
+"menu" opens the menu
+
+openings in the map are bridges to other maps
+
+enemies respawn when you exit and come back
+
+H is a healing center that you can walk over to heal yourself
+
+F is a forge where you can improve weapons by combining them
+
+S is a shop where weapons, potions, and spells can be bought from money made from killing monsters
+
+in the inventory, select a weapon to equip it, select a magic book to learn it
+in the menu, stat points can be placed wherever you like, strength is best to try first
+skill points do nothing for now
