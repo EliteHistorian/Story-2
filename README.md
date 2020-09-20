@@ -5,11 +5,7 @@ ASCII graphics, runs in output box/command prompt, prints the new screen with ev
 purely mechanics at the moment, no particular story in mind
 
 mechanics list:
--movement
+-exploration/multiple rooms
 -combat
--healing
--buying and selling equipment
--choosing which equipment to equip
--improving equipment by combining it with others
--leveling up via monster xp
--player controlled stat distribution
+-buying/selling equipment
+-stat distribution
