@@ -1,6 +1,5 @@
 # Story-2
-extension of RPG game made in highschool
-ASCII graphics, runs in output box/command prompt, prints the new screen with every action
+extension of RPG game made in highschool, ASCII graphics, runs in output box
 
 purely mechanics at the moment, no particular story in mind
 
